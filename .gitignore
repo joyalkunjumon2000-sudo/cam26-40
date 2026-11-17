@@ -1,0 +1,10 @@
+.env/
+.venv/
+
+.env
+.env.*
+*.env
+
+.vscode/
+
+_pyache_/
